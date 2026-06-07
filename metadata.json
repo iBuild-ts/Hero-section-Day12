@@ -1,0 +1,6 @@
+{
+  "name": "LinkFlow",
+  "description": "Seamless high-fidelity looping video layout bridging signal and action.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
